@@ -13,7 +13,7 @@
 
 ## 🚀 Live Demo
 
-**[Launch AI Watermark Detective →](https://yourusername.github.io/ai-watermark-detective)**
+**[Launch AI Watermark Detective →](https://castle-bravo-project.github.io/ai-watermark-detector)**
 
 Experience cutting-edge AI watermark detection technology with real-time analysis, interactive visualizations, and comprehensive reporting capabilities.
 
