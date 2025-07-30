@@ -9,7 +9,6 @@
 
 > **Advanced AI-generated content detection with sophisticated watermark analysis and beautiful data visualization**
 
-![AI Watermark Detective Screenshot](https://via.placeholder.com/800x400/111827/3b82f6?text=AI+Watermark+Detective+Interface)
 
 ## 🚀 Live Demo
 
