@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -76,6 +75,16 @@
         .file-drop-zone.drag-over {
             border-color: var(--accent);
             background-color: rgba(59, 130, 246, 0.1);
+        }
+        
+        /* Fix for chart container height */
+        .chart-container {
+            height: 300px !important;
+            max-height: 300px !important;
+        }
+        
+        #confidenceChart {
+            max-height: 300px !important;
         }
     </style>
 </head>
@@ -168,7 +177,9 @@
                 <!-- Confidence Chart -->
                 <div class="bg-gray-900 rounded-lg p-4">
                     <h3 class="text-lg font-medium mb-4">Detection Confidence</h3>
-                    <canvas id="confidenceChart" width="400" height="200"></canvas>
+                    <div class="chart-container">
+                        <canvas id="confidenceChart"></canvas>
+                    </div>
                 </div>
                 
                 <!-- Pattern Visualization -->
